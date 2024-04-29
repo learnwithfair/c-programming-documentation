@@ -7,12 +7,12 @@ is a general-purpose programming language, developed in 1972, and still quite po
 
 ## Source Code (Download)
 
-[Click Here]()
+[Click Here](https://mega.nz/folder/RGFiUApD#PoKIVCwF8IkQhE2PHw1XxQ)
 
 ## Slide
 
-Visit-> https://mega.nz/file/VOs2ESgA#k1pVAyt9jPlyDSJiKEUe97-ZAGpcvbQJRn2eEnrIh3A
-More -> https://github.com/learnwithfair/c-programming
+- Visit-> https://mega.nz/file/VOs2ESgA#k1pVAyt9jPlyDSJiKEUe97-ZAGpcvbQJRn2eEnrIh3A
+- More -> https://github.com/learnwithfair/c-programming
 
 ## Required Software (Download)
 
