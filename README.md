@@ -19,7 +19,11 @@ is a general-purpose programming language, developed in 1972, and still quite po
 - Code::Blocks, Download(mingw-setup.exe, FossHUB) ->https://www.codeblocks.org/downloads/binaries/
 - Or, [Click-here](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
 
+### Downloading Process
 
+- Select codeblocks-20.03mingw-setup.exe
+- Click on FossHUB
+- 
 ## Project Overview
 
 |                                       |
